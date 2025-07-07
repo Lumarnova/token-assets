@@ -1,0 +1,11 @@
+{
+  "name": "LUMARNOVA",
+  "symbol": "LUMA",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "LUMARNOVA is a utility token powering the Genesis Xponential ecosystem, enabling access to AI-powered businesses, staking rewards, and digital asset acquisition.",
+  "website": "https://lumarnova.com",
+  "explorer": "https://polygonscan.com/token/0x302DBd2a3022C58d1910e271C3f61D0ab37aE043",
+  "status": "active",
+  "id": "0x302DBd2a3022C58d1910e271C3f61D0ab37aE043"
+}
